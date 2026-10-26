@@ -181,3 +181,7 @@ sync_github_name = true
 
 [people.pakiat]
 display_name = "OtorO"
+
+[people.d-0-t]
+real_name = "Dora Sukolova"
+sync_github_name = true
