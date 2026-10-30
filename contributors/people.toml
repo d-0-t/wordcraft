@@ -185,3 +185,12 @@ display_name = "OtorO"
 [people.d-0-t]
 real_name = "Dora Sukolova"
 sync_github_name = true
+
+[people.TobyWu666]
+display_name = "tobywu"
+
+[people.Bra1nZ]
+sync_github_name = true
+
+[people.dylanmtaylor]
+sync_github_name = true
